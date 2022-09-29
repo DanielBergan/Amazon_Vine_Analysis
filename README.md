@@ -6,7 +6,7 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 ## Results: 
 ![This is an image:](https://github.com/DanielBergan/Amazon_Vine_Analysis/blob/main/resources/Screen%20Shot%202022-09-28%20at%204.55.00%20PM.png)
 
-From the DataFrame pictured above one can se:
+From the DataFrame pictured above one can see:
 - There were 60 Vine reviews and 14,477 non-Vine reviews.
 - There were 34 Vine reviews with 5 stars and 8212 non-Vine reviews with 5 stars.
 - The precent of reviews which were 5 star was 56.67% for Vine reviews and 56.72% for non-Vine reviews.
