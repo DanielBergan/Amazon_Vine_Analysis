@@ -4,7 +4,7 @@
 The purpose of this project is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
 ## Results: 
-![This is an image:]()
+![This is an image:](https://github.com/DanielBergan/Amazon_Vine_Analysis/blob/main/resources/Screen%20Shot%202022-09-28%20at%204.55.00%20PM.png)
 
 From the DataFrame pictured above one can se:
 - There were 60 Vine reviews and 14,477 non-Vine reviews.
